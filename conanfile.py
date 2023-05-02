@@ -26,3 +26,5 @@ class HelloConan(ConanFile):
 
 # https://docs.conan.io/1/reference/conanfile/methods.html#init
 # https://docs.conan.io/1/howtos/capture_version.html
+# conan export-pkg . -f
+# conan inspect .
